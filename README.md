@@ -1,6 +1,6 @@
 ### Hi I'm Jit Nandi 👋
 
-- 🔭 I’m currently a student
+- 🔭 I’m currently a student.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with some projects.
