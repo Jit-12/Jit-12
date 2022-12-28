@@ -7,6 +7,6 @@
 - 💬 Ask me about any maths related stuff.
 - 📫 How to reach me: [Linkedin - Jit Nandi](linkedin.com/in/jit-nandi-b5703720b)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: OnePiece is real
+- ⚡ Fun fact: OnePiece is real.
 
 ![This is an image](https://github-readme-stats.vercel.app/api?username=Jit-12&theme=dracula&show_icons=true)
